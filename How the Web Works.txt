@@ -1,0 +1,26 @@
+	•	What is HTTP?
+ HTTP is an application layer protocol to transfer information between networked devices and runs on other layers of the network protocol stack.
+
+	•	What is a URL?
+URL is a reference to a resource on the internet.
+
+	•	What is DNS?
+DNS is a system that converts website domains names into ip addresses which browsers use to load internet pages
+
+	•	What is a query string?
+Query strings are used to carry many types of data back to you web server.
+
+	•	What are two HTTP verbs and how are they different?
+Get does requests without side effects/changes and post does requests while side effects/ changing data.
+
+	•	What is an HTTP request?
+An HTTP request usually is to pull information from a server. They allow communication between server and client
+
+	What is an HTTP response?
+The response is when the server communicates back with the clients giving ing=formation requested from a server
+
+	•	What is an HTTP header? Give a couple examples of request and response headers you have seen.
+An HTTP header is info sent with web requests or responses to give details about them. Examples: Content-Type tells what kind of file is being sent, User-Agent shows what browser is being used, Status shows if the request was successful.
+
+	•	What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+When you type a website address, the browser finds the website's address, connects to it, asks for the page, the website sends it back, and then the browser shows the page.
